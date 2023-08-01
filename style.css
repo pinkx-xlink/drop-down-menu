@@ -12,6 +12,7 @@ body {
 
 .link {
     height: 45px;
+    
 }
 
 .information-grid {
@@ -30,4 +31,8 @@ a {
     background-color: pink;
     border: 2px solid blue;
     margin:5px;
+    text-decoration: none;
+}
+a:hover {
+    color:black;
 }
