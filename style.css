@@ -11,3 +11,12 @@ body {
 .link {
     height: 45px;
 }
+
+.information-grid {
+    padding:5px;
+    background-color: tan;
+}
+
+.dropdown-links {
+    display: grid;
+}
