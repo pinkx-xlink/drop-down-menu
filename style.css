@@ -25,3 +25,9 @@ body {
     align-items: center;
     padding:5px;
 }
+
+a {
+    background-color: pink;
+    border: 2px solid blue;
+    margin:5px;
+}
