@@ -11,7 +11,13 @@ body {
 }
 
 .dropdown-menu {
+    /* position: absolute; */
     opacity: 0;
+    transition: opacity 150ms ease-in-out;
+}
+
+,dropdown > link:focus + .dropdown-menu {
+    opacity: 1;
 }
 
 
