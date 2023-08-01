@@ -1,4 +1,6 @@
-
+body {
+    background-color: rgb(146, 146, 165);
+}
 
 .dropdown {
     height: 200px;
