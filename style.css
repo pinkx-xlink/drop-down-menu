@@ -29,7 +29,7 @@ body {
 
 a {
     background-color: pink;
-    border: 2px solid blue;
+    border-bottom: 2px solid rgb(255, 0, 106);
     margin:5px;
     text-decoration: none;
 }
