@@ -16,7 +16,7 @@ body {
     transition: opacity 150ms ease-in-out;
 }
 
-,dropdown > link:focus + .dropdown-menu {
+,dropdown > .link:focus + .dropdown-menu {
     opacity: 1;
 }
 
