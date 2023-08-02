@@ -10,6 +10,11 @@ body {
     background-color: yellow;
 }
 
+.dropdown.active > .link,
+.link:hover {
+    color: black;
+}
+
 .dropdown-menu {
     /* position: absolute; */
     opacity: 0;
