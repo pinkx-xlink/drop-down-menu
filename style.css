@@ -21,7 +21,7 @@ body {
     transition: opacity 150ms ease-in-out;
 }
 
-,dropdown > .link:focus + .dropdown-menu {
+.dropdown > .link:focus + .dropdown-menu {
     opacity: 1;
 }
 
@@ -62,7 +62,7 @@ a:hover {
 
 
 .dropdown.active > .link + .dropdown-menu {
-    opacity: ; 
+    opacity: 1; 
     transform: translateT(0);
     pointer-events: auto;
 }
