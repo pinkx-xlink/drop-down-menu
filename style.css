@@ -49,12 +49,9 @@ body {
     display: grid;
     justify-content: space-around;
     align-items: center;
-    padding:5px;
 }
 
 a {
-    background-color: pink;
-    border-bottom: 2px solid rgb(255, 0, 106);
     margin:5px;
     text-decoration: none;
     font-style: italic;
