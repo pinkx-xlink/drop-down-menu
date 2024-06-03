@@ -51,12 +51,12 @@ body {
     align-items: center;
 }
 
-a {
+button {
     margin:5px;
     text-decoration: none;
     font-style: italic;
 }
-a:hover {
+button:hover {
     color:black;
 }
 
