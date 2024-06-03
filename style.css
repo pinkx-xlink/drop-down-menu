@@ -1,5 +1,7 @@
 body {
-    background-color: rgb(146, 146, 165);
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 550;
 }
@@ -7,7 +9,6 @@ body {
 .dropdown {
     height: 200px;
     width: 300px;
-    background-color: yellow;
 }
 
 .dropdown.active > .link,
