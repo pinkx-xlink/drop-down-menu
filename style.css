@@ -8,7 +8,7 @@ body {
 
 .dropdown {
     height: 200px;
-    width: 300px;
+    width: 200px;
 }
 
 .dropdown.active > .link,
@@ -32,7 +32,7 @@ body {
 .link {
     background-color: rgb(58, 29, 82);
     height: 45px;
-    width: 300px;
+    width: 200px;
     border-style:none;
     border-radius: 10px;
     color:aliceblue;
@@ -52,7 +52,6 @@ body {
 }
 
 button {
-    margin:5px;
     text-decoration: none;
     font-style: italic;
 }
